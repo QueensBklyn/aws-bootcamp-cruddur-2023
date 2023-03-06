@@ -18,4 +18,4 @@
 
 ##Connected to Postgres 
 ##Connected to the Postgres
-![Connected to the Postgres](assets/Postgres connected.PNG)
+![Connected to the Postgres](assets/Postgres connected)
