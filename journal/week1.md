@@ -17,10 +17,11 @@
 
 ##Connected to Dynamodb 
 
-##Connected to the Dynamodb
+## I was able to connect to the Dynamodb
 ![Connected to the Dynamodb](assets/Dynamodb.PNG)
 
 ##Connected to Postgres 
-##Connected to the Postgres
+
+##I was able to connect to Postgres
 ![Connected to the Postgres](assets/Postgres.PNG)
 
