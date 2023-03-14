@@ -28,7 +28,6 @@ from aws_xray_sdk.core import xray_recorder
 from aws_xray_sdk.ext.flask.middleware import XRayMiddleware
 
 
-
 # Honeycomb -------
 # Initialize tracing and an exporter that can send data to Honeycomb
 provider = TracerProvider()
