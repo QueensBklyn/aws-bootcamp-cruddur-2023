@@ -5,4 +5,4 @@
 
 ![Connected to the honeycomb](assets/honeycomb.PNG)
 
-!(assets/honeycom2b.PNG)
+![Displaying more data from honeycomb](assets/honeycomb2.PNG, assets/honeycomb3.PNG)
