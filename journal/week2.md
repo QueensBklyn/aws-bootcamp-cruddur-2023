@@ -27,3 +27,7 @@
 # Connected to Sampling rule created and showing in AWS
 
 ![Sampling](assets/sampling.PNG)
+
+# Cloud Watch data
+
+![cloudwatch](assets/cloudwatch.PNG)
