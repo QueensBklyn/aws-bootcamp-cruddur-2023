@@ -26,4 +26,4 @@
 
 # Connected to Sampling rule created and showing in AWS
 
-!.[Sampling](assets/Sampling rule.PNG)
+![Sampling](assets/Sampling rule.PNG)
