@@ -30,4 +30,4 @@
 
 # Cloud Watch data
 
-![cloudwatch](assets/cloudwatch.PNG)
+![cloudwatch](assets/cloudwatch2.PNG)
