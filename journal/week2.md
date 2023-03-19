@@ -20,7 +20,7 @@
 
 # Connected to Rollbar and was able to see data 
 
-!.[Rollbar](assets/rollbar.PNG)
+![Rollbar](assets/rollbar.PNG)
 
 ![Rollbar endpoint and displaying Hello World ](assets/rollbar2.PNG)
 
