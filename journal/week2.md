@@ -20,10 +20,10 @@
 
 # Connected to Rollbar and was able to see data 
 
-![Rollbar](assets/trace for rollbar.PNG)
+!.[Rollbar](assets/trace for rollbar.PNG)
 
 ![Rollbar endpoint and displaying Hello World ](assets/rollbar_hello world.PNG)
 
 # Connected to Sampling rule created and showing in AWS
 
-![Samping Rule ](assets/trace for Sampling rule.PNG)
+!.[Sampling]assets/trace for Sampling rule.PNG)
