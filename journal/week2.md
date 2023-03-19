@@ -14,7 +14,7 @@
 
 ## Connected to X-RAY and was able to see data 
 
-![Xray trace](assets/trace for xray.PNG)
+![Xray trace](assets/trace.PNG)
 
 ![XRAY](assets/XRAY.PNG)
 
@@ -22,8 +22,8 @@
 
 !.[Rollbar](assets/rollbar.PNG)
 
-![Rollbar endpoint and displaying Hello World ](assets/rollbar_hello world.PNG)
+![Rollbar endpoint and displaying Hello World ](assets/rollbar2.PNG)
 
 # Connected to Sampling rule created and showing in AWS
 
-![Sampling](assets/Sampling rule.PNG)
+![Sampling](assets/sampling.PNG)
