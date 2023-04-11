@@ -13,8 +13,7 @@ export default function ProfileInfo(props) {
   }
 
   const signOut = async () => {
-    const signOut = async () => {
-      try {
+    try {
           await Auth.signOut({ global: true });
           window.location.href = "/"
       } catch (error) {
