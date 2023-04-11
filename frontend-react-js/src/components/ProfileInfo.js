@@ -12,9 +12,9 @@ export default function ProfileInfo(props) {
     setPopped(!popped)
   }
 
-    const signOut = async () => {
-      const signOut = async () => {
-    try {
+    //const signOut = async () => {
+   const signOut = async () => {
+     try {
           await Auth.signOut({ global: true });
           window.location.href = "/"
       } catch (error) {
