@@ -4,4 +4,9 @@
 ![Reset password](assets/Reset_Password.PNG)
 
 ## I was able to perform an email recovery
-![Email recovery](assets/Email_Recovery.PNG)
+![Email recovery](assets/Email_recovery.PNG)
+
+
+
+## Dispays incorrect username 
+![incorrect_usr](assets/incorrect_usr.PNG)
